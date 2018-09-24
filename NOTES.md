@@ -7,3 +7,4 @@
 * https://docs.newrelic.com/docs/apis/rest-api-v2/requirements/set-custom-user-agent
 * https://tools.ietf.org/html/rfc2616#section-14.43
 * https://github.com/restfulapi/api-strategy
+* https://github.com/Microsoft/api-guidelines/blob/vNext/Guidelines.md
